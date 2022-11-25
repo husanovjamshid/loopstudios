@@ -1030,6 +1030,11 @@ video {
     font-size: 3rem;
     line-height: 1;
   }
+
+  .lg\:text-7xl{
+    font-size: 4.5rem;
+    line-height: 1;
+  }
 }
 
 @media (min-width: 1280px){
