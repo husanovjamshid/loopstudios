@@ -5,7 +5,6 @@ module.exports = {
     extend: {
       backgroundImage: {
         heroPpattern: "url('./images/header-bg.jpg')",
-        'footer-texture': "url('/img/footer-texture.png')",
       },
 
       backgroundColor: {
@@ -15,6 +14,9 @@ module.exports = {
       contentWidth: {
         textWidth: "570px",
         heroWidth: "27rem"
+      },
+      fontFamily:{
+        body: ['Alata, sans-serif']
       }
     },
   },
